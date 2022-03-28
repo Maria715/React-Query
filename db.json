@@ -1,0 +1,97 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Cheetara",
+      "catchPhrase": "I am Cheetara. In my heart, I know I'm the strongest of my kind. The pride of my people. I am unique in this universe. And I will *not be DEFEATED*!"
+    },
+    {
+      "id": 2,
+      "name": "Skeletor",
+      "catchPhrase": "Listen, I am not nice, I am not kind and I am NOT WONDERFUL!"
+    },
+    {
+      "id": 3,
+      "name": "Maya",
+      "catchPhrase": "It certainly is a great day to be alive."
+    },
+    {
+      "name": "MAria",
+      "catchPhrase": "MKp",
+      "id": 4
+    },
+    {
+      "name": "",
+      "catchPhrase": "",
+      "id": 5
+    },
+    {
+      "name": "Neelum Akhtar",
+      "catchPhrase": "Akhtar khan",
+      "id": 6
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "show": "ThunderCats"
+    },
+    {
+      "id": 2,
+      "name": "Attia",
+      "show": "Masters of the Universe"
+    },
+    {
+      "id": 3,
+      "name": "Eemaan",
+      "show": "Maya the Bee"
+    }
+  ],
+  "users": [
+    {
+      "id": "mariarajakimail@gmail.com",
+      "channelId": "mariaKaChannel"
+    }
+  ],
+  "channels": [
+    {
+      "id": "mariaKaChannel",
+      "course": ["react-native", "next.js"]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "black"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "blue"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "purple"
+    },
+    {
+      "id": 7,
+      "label": "maroon"
+    }
+  ]
+}
